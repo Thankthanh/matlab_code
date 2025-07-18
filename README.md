@@ -1,5 +1,3 @@
-MATLAB Numerical Methods Library
-Welcome to the matlab_code repository! This collection of MATLAB scripts showcases a variety of numerical methods commonly used in scientific computing and engineering. The code is organized into modules based on mathematical topics such as differentiation, integration, interpolation, root-finding, and solving differential equations.
 
 Folder Structure
 1. Daoham_tichphan (Differentiation & Integration)
